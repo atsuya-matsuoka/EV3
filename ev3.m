@@ -33,3 +33,5 @@ stop(mymotor)
 stop(mymotor2)
 rotation = readRotation(mymotor)
 resetRotation(mymotor)
+%%
+clc;close all force;clear;
