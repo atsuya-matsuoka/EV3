@@ -8,6 +8,7 @@ beep(myev3,3)
 %% light
 writeStatusLight(myev3,'orange','pulsing')
 pause(3)
+
 writeStatusLight(myev3,'red','solid')
 pause(3)
 writeStatusLight(myev3,'green','solid')
